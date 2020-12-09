@@ -17,7 +17,6 @@
     1. Structures of repetions
     1. Regular Expressions
     1. Object Oriented Programing
-      1. Getters and Setters
 
 
 
