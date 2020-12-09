@@ -22,7 +22,7 @@
 
 > ### Contact
 
-> **Atention** If you go email me, please put as subject the name of the project, in this case: **(RandomBox) Requests**
+> **Atention** If you go email me, please put as subject the name of the project, in this case: **(Studies of Python) Requests**
 
 |  Name |  Email | Mobile  |
 |-------|--------|---------|
