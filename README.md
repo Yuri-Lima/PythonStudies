@@ -12,8 +12,12 @@
   * In this project i've learned:
     1. Variables;
     1. List and Tuplys
+    1. Dictionary
     1. Condictions
-    1. Structures of repetions 
+    1. Structures of repetions
+    1. Regular Expressions
+    1. Object Oriented Programing
+      1. Getters and Setters
 
 
 
